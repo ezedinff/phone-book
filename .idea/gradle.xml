@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Phone Book (Java)/task" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Automatically created constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Fix the program" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Counter" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/First digit" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/The sum of digits" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Overloading methods" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Overloading/When overloading happens" />
+            <option value="$PROJECT_DIR$/Topics/Package/A keyword for importing a class" />
+            <option value="$PROJECT_DIR$/Topics/Package/Creating instances" />
+            <option value="$PROJECT_DIR$/Topics/Package/The default import" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Package/Which classes are accessible" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Test learners" />
+            <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
