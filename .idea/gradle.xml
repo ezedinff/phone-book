@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -9,7 +10,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Phone Book (Java)/task" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Account and its owner" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Automatically created constructor" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
@@ -30,6 +30,10 @@
             <option value="$PROJECT_DIR$/Topics/Package/The default import" />
             <option value="$PROJECT_DIR$/Topics/Package/Theory" />
             <option value="$PROJECT_DIR$/Topics/Package/Which classes are accessible" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
             <option value="$PROJECT_DIR$/Topics/Switch statement/A simple calculator" />
             <option value="$PROJECT_DIR$/Topics/Switch statement/Test learners" />
             <option value="$PROJECT_DIR$/Topics/Switch statement/Theory" />
