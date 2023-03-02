@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-
 class ManufacturingController {
     // here you may declare a field
     static List<String> products = new ArrayList<>();

@@ -1,0 +1,24 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It is possible to create an instance of <b>LocalDate</b> from a string
+- text: It's a mutable class
+- text: It belongs to the package <b>java.date</b>
+- text: 'The numbers of months starts with 0 '
+- text: LocalDate represents a single date in a <b>dd-MM-YYYY</b> format
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2855#comment
+status: Solved
+record: -1
+local_check: false

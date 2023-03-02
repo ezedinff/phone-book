@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: ' The invocation <b>LocalDate.parse("2017-09-21")</b> creates an instance
+    represents <b>21st September 2017</b>'
+- text: The method <b>getDayOfYear</b> returns the same result as the method <b>getDayOfMonth</b>
+- text: The <b>LocalDate</b> class has methods for retrieving a length of the year
+    and month
+- text: The instance method <b>withMonth</b> changes the current instance of the class
+- text: The instance method <b>plusDays</b> returns the same instance of this class
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2856#comment
+status: Solved
+record: -1
+local_check: false

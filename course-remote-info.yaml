@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/210117/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Mon, 20 Feb 2023 08:42:01 UTC"
+update_date: "Thu, 02 Mar 2023 09:03:58 UTC"
 stages:
 - id: 340
   step: 5482
@@ -29,6 +29,10 @@ topics:
     theory_id: 10996
   - title: Introduction to Operating systems
     theory_id: 9704
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and Options
+    theory_id: 9746
   - title: Computer algorithms
     theory_id: 16547
   - title: Immutability
@@ -125,10 +129,6 @@ topics:
     theory_id: 3570
   - title: Exception handling
     theory_id: 3552
-  - title: Command line overview
-    theory_id: 8977
-  - title: Parameters and Options
-    theory_id: 9746
   - title: Running programs on your computer
     theory_id: 3746
   - title: Files

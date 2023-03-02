@@ -7,3 +7,7 @@ content:
 - Instance methods
 - Package
 - Static members
+- Hiding and overriding
+- Interface
+- Hierarchy of exceptions
+- LocalDate
